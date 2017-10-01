@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8CF-9D92
+
+ Directory of C:\Users\pc\Desktop\NewProject
+
+10/01/2017  10:04 AM    <DIR>          .
+10/01/2017  10:04 AM    <DIR>          ..
+10/01/2017  10:04 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,893,587,968 bytes free
